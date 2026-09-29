@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm VibeStorm
 
-<!--
-**VibeStorm/VibeStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career changer moving from 20+ years in operations management into cybersecurity (SOC / security analysis).
 
-Here are some ideas to get you started:
+## What I'm working on
+- Log analysis and detection: Splunk, Windows Security events
+- Python for security and automation
+- Small, documented projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [telegram-calendar-agent](https://github.com/VibeStorm/telegram-calendar-agent) — voice-driven Telegram + Google Calendar assistant (Python, Groq; built with Claude Code)
+
+## Learning
+Google Cybersecurity Professional Certificate · AWS Academy Cloud Foundations · Splunk eLearning · Hack The Box Academy
+
+Open to entry-level SOC / Security Analyst roles.
